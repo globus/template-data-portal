@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "@globus/static-data-portal": "^1.11.0"
+    "@globus/static-data-portal": "^2.0.0"
   }
 }
